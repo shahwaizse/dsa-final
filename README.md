@@ -16,4 +16,4 @@ the algorithms part is sort of finicky:
 ->this has the benefit of added security as well as speed.
 ->log file is created on server's first startup, which keeps track of all transactions.
 ->avl tree is built on the basis of log file after server restart.
-->a database would have been much simpler to use and way faster, but 3rd semester yknow. 
+->a database would have been much simpler to use and way faster, but 3rd semester yknow.

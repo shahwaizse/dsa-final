@@ -1,3 +1,4 @@
+made with winsock and tears.
 stuff implemented in this program includes:
 -networking
 -hashing

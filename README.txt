@@ -1,5 +1,4 @@
-3rd semester dsa project,
-has tons of cool stuff like:
+stuff implemented in this program includes:
 -networking
 -hashing
 -file handling
